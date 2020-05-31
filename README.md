@@ -1,4 +1,4 @@
-# COVID-19-Visulization-Analysis
+# COVID-19-Visulization-Analysis Till 31 May 2020
 Context
 From World Health Organization (https://www.who.int/emergencies/diseases/novel-coronavirus-2019) - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. 
 The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
